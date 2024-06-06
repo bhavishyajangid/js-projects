@@ -33,6 +33,7 @@ border-radius: 10px;
     text-align: right;
    background-color: black;
     color: white;
+    overflow-x: auto;
     
 }
 
